@@ -1,0 +1,186 @@
+header {
+    overflow: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 90%;
+
+}
+
+.logo img {
+
+    width: 20%;
+    float: left;
+}
+
+.menu {
+    width: 50%;
+    float: right;
+
+
+}
+
+.menu ul {
+    list-style: none;
+    float: right;
+}
+
+.menu ul li {
+
+    float: left;
+    margin-left: 50px;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #626262;
+
+}
+
+section {
+    overflow: hidden;
+
+}
+
+.banner {}
+
+.banner img {
+    width: 90%;
+    margin: 5%;
+
+}
+
+.photodairy {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.photodairy h5 {
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.photodairy h1 {
+    color: #626262;
+
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.photodairy p {
+    color: #626262;
+
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.photodairy h6 {
+    color: #b4ad9e;
+
+    font-size: 17px;
+}
+.boxfull{
+    margin-top: 4%;
+    margin-left: 10%;
+    
+}
+.box1{
+    float: left;
+    width: 40%;
+
+}
+
+.box1 h6{
+    color:#b4ad9e;
+    
+}
+.box1 h1{
+    color:#626262 ;
+
+}
+.box1 p{
+    color:#626262 ;
+
+}
+.box2{
+    float: right;
+    width: 40%;
+    margin-right: 10%;
+}
+.box2 h6{
+    color:#b4ad9e ;
+  
+}
+.box2 h1{
+    color: #626262;
+
+}
+.box2 p{
+    color:#626262 ;
+    overflow: hidden;
+}
+
+section 2ndphoto{
+
+}
+.asif{
+    margin-left: 10%;
+   
+   
+
+}
+.habiba{
+    float: left;
+    width: 40%;
+
+
+}
+.love{
+
+    float: right;
+    width: 40%;
+    margin-right: 10%;
+}
+.habiba h5{
+   color: #b4ad9e;
+}
+.habiba h1{
+    color: #626262;
+
+}
+.habiba p{
+    color: #626262;
+
+}
+.love h5{
+    color: #b4ad9e;
+
+}
+.love h1{
+    color: #626262;
+
+}
+.love p{
+    color: #626262;
+
+}
+.sign{
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 10%;
+    padding: 10%;
+}
+
+section asifkhan{
+    text-align: center;
+    background-color: aqua;
+
+}
+
